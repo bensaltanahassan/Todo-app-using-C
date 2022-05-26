@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1652832985 source:c:\users\bensaltana\documents\language c\note-app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1652881692 source:c:\users\bensaltana\desktop\ensa\bensaltana hassan\note-app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1652889587 source:c:\users\bensaltana\desktop\ensa\note-app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
